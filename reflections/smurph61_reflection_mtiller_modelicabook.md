@@ -1,0 +1,3 @@
+# Reflection: mtiller_modelicabook
+
+The longest inactivity gap in this project’s history was nine months. The reason for this gap was not entirely clear because the commits before and after the gap involved documentation, build maintenance, merging, and submodules. However, the project team worked on compatibility, dependencies, and modernization after the gap, possibly relating to the switch from Python 2 to Python 3. The project maintained an excellent level of upkeep even after the long inactivity gap. The same contributor worked on different aspects of the project before and after the gap. The later commits involved Rcpp, algorithms, CI, and bug fixes.

@@ -1,0 +1,3 @@
+# Reflection: sibrun_gh
+
+The longest inactivity gap in this project’s history was thirty two months and was the largest of all gaps. It was challenging to determine the reason for this gap because the commits before and after the gap included primarily documentation and name changes. However, the later commits appear to involve more significant changes, such as Python 3 compatibility, graph, display, and bugs.

@@ -1,0 +1,3 @@
+# Reflection: xbarin02_collatz
+
+The longest inactivity gap in this project’s history was eight months. The reason for this gap was unclear because the descriptions of the commits before and after the gap did not involve significant changes and mostly included documentation, building, and submodules. It can be speculated that the long inactivity gap was caused by the completion of a part of the development process. The same contributor worked on the project before and after the gap. Later commits involved new search functions, configuration, documentation, and workers.

@@ -1,0 +1,3 @@
+# Reflection: jklimke_libcitygml
+
+The longest inactivity gap in this project’s history was ten months. The reason for this gap was unclear because the descriptions of the commits before and after the gap did not involve significant changes and mostly included documentation and command-line clean-up. However, the project team appeared to recover from the inactivity gap well because the later commits involved significant changes in multiple files and utilized multiple contributors.

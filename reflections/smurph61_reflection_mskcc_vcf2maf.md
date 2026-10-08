@@ -1,0 +1,3 @@
+# Reflection: mskcc_vcf2maf
+
+The longest inactivity gap in this project’s history was thirteen months. This project appeared to be slowly abandoned because the commits before the gap included primarily documentation and command-line clean-up. The project team appeared to recover from the inactivity gap moderately well, addressing various compatibility issues, VEP options, and bugs, and utilizing both previous contributors and new ones.

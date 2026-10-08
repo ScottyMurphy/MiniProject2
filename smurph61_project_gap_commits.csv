@@ -1,0 +1,374 @@
+pre/post,prj,commit,author,time,message
+pre,ds4dm_tulip.jl,a724690ca9c732a1573ee48c08c37a40b2877718,Documenter.jl <documenter@juliadocs.github.io>,1702319955,"build based on 2edf525
+"
+pre,ds4dm_tulip.jl,211913735ab98679fd5b3bd7c399f369422e51aa,Neven Sajko <s@purelymail.com>,1702321915,"Merge 9bbe799dcb7c99ea0fdede735d97e466e68d02a3 into 2edf525caf73b16c1f0b2da39e300a64aacb2b63
+"
+pre,ds4dm_tulip.jl,95f5f8dbf68be6183a4811f2e566a46873e79a2b,Pratyai Mazumder <pratyai.mazumder@gmail.com>,1705850619,"Add a function that was promised in the documentation: https://ds4dm.github.io/Tulip.jl/dev/reference/attributes/
+> SolutionTime	Float64	Solution time, in seconds
+"
+pre,ds4dm_tulip.jl,8a3cce91823bb23e81341aa78218504ef3cccf6f,Pratyai Mazumder <pratyai.mazumder@gmail.com>,1708354366,"Allow querying SolutionTime attribute (#146)
+
+> SolutionTime	Float64	Solution time, in seconds"
+pre,ds4dm_tulip.jl,a801f5f9c7ec8f79491f1311d8c0595b47b8d804,Documenter.jl <documenter@juliadocs.github.io>,1708354537,"build based on 8a3cce9
+"
+pre,ds4dm_tulip.jl,043c8bac88023978dc40eb11064f07bc648a65b2,Neven Sajko <s@purelymail.com>,1708631489,"Merge 9bbe799dcb7c99ea0fdede735d97e466e68d02a3 into 8a3cce91823bb23e81341aa78218504ef3cccf6f
+"
+pre,ds4dm_tulip.jl,490edf1f7e89d5eebb339723e5e1864b7edf3342,Pratyai Mazumder <pratyai.mazumder@gmail.com>,1717754415,"Count another location of `KKT.solve!()` call in the final stats
+(previously unreported).
+"
+pre,ds4dm_tulip.jl,f3df04d8f88cdf2466b886d117e8d28ca537b4a1,Pratyai Mazumder <pratyai.mazumder@gmail.com>,1717959617,"Count another location of `KKT.solve!()` call in the final stats (#147)
+
+(previously unreported)."
+pre,ds4dm_tulip.jl,0c04d17dfc95b89bf8f5368b90702d636a255f7b,Documenter.jl <documenter@juliadocs.github.io>,1717959795,"build based on f3df04d
+"
+pre,ds4dm_tulip.jl,7ce4ae7fd302891ec2e37a925c39a04fb45c8d10,Neven Sajko <s@purelymail.com>,1718855292,"Merge 9bbe799dcb7c99ea0fdede735d97e466e68d02a3 into f3df04d8f88cdf2466b886d117e8d28ca537b4a1
+"
+post,ds4dm_tulip.jl,8a79c54f05ef3f3289178dd7fbf6b0da0b02a350,mtanneau <mathieu.tanneau@gmail.com>,1735322813,"Modify behavior of primal/dual objval attribute
+"
+post,ds4dm_tulip.jl,49be24ce91e116700c6d6b535025cad74fd771ab,mtanneau <mathieu.tanneau@gmail.com>,1735322832,"Enable unbounded MOI tests
+"
+post,ds4dm_tulip.jl,3fc8502c52fb026570438508ff189caa8fade75c,mtanneau <mathieu.tanneau@gmail.com>,1735322875,"Update Tulip example tests
+"
+post,ds4dm_tulip.jl,57712a1c651209e6cbe3d23d3f1796d2698b35a9,mtanneau <mathieu.tanneau@gmail.com>,1735323616,"Fix dual objective value computation
+"
+post,ds4dm_tulip.jl,03076eeca762cec9c842f1cb99d889ed7272e3a8,mtanneau <mathieu.tanneau@gmail.com>,1735325092,"Fix dual objective value for max problems
+"
+post,ds4dm_tulip.jl,7cc9c1fd7066b1e12d58474a852757b6cb0b56b7,Mathieu Tanneau <9593025+mtanneau@users.noreply.github.com>,1735328538,"Fix treatment of objective value for infeasibility certificates (rays) (#150)
+
+* Modify behavior of primal/dual objval attribute
+
+* Enable unbounded MOI tests
+
+* Update Tulip example tests
+
+* Fix dual objective value computation
+
+* Fix dual objective value for max problems"
+post,ds4dm_tulip.jl,86a53b0481625cd755af8707edf584ec8cc2640d,Documenter.jl <documenter@juliadocs.github.io>,1735328744,"build based on 7cc9c1f
+"
+post,ds4dm_tulip.jl,47bdbb0b38dbc49598214ee73a6560fd33ccf4c1,Mathieu Tanneau <9593025+mtanneau@users.noreply.github.com>,1735329019,Update CI workflow
+post,ds4dm_tulip.jl,877decd437096d4a2350d67a5533056bec32bdb8,mtanneau <mathieu.tanneau@gmail.com>,1735329266,"Update package version & dependencies
+"
+post,ds4dm_tulip.jl,b0a2af91fa8cd54356b07659ccc1f5b1a32999ef,Mathieu Tanneau <9593025+mtanneau@users.noreply.github.com>,1735329392,Fix job name
+pre,mtiller_modelicabook,222d205245853809f2537b820e1902cd82c5a92e,Michael Tiller <michael.tiller@gmail.com>,1630955545,"Remove print statement
+
+This makes the script work with either Python 2 or Python 3.
+"
+pre,mtiller_modelicabook,5927417ac249aa6cad777a093bc33897a2d049e0,Michael Tiller <michael.tiller@gmail.com>,1630955553,"Updated build instructions
+"
+pre,mtiller_modelicabook,afe896f64e81b7f7291939b58f8a74d26f925a18,Michael Tiller <michael.tiller@gmail.com>,1630965469,"Documentation improvements
+"
+pre,mtiller_modelicabook,3da30baf05ee0d46263ec9fdfe0095dfd4d3da78,Michael Tiller <michael.tiller@gmail.com>,1630965539,"Point to updated nextgen
+"
+pre,mtiller_modelicabook,2277c132763ef5fcea1a8e3f790c11dd9c0310c6,dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>,1636269422,"Merge 7a9eab01ccfae17d9d6689b4b63eae0880dda812 into 178ccdc3d61ec8ce96882bdfa6fd0c2f55bec470
+"
+pre,mtiller_modelicabook,923f18495d5ae06c65e46cd0968b81716125e3c0,dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>,1636269422,"Merge c8da8bd949e466c9153acd420c818436442d0046 into 178ccdc3d61ec8ce96882bdfa6fd0c2f55bec470
+"
+pre,mtiller_modelicabook,d6bc5c7c2c014abed43117dfd685f5f00eb81b69,dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>,1636269423,"Merge e1d85cf6ef42cace2b48a1d04674449ab12f9878 into 178ccdc3d61ec8ce96882bdfa6fd0c2f55bec470
+"
+pre,mtiller_modelicabook,2296328ed7488f4a958d9b706dd2d208de638ee3,Michael Tiller <michael.tiller@gmail.com>,1638722521,"Updating submodule
+"
+pre,mtiller_modelicabook,2dc190cdbcc3e7c1127f20fbc7c904e3ad3e9029,Michael Tiller <michael.tiller@gmail.com>,1638722726,"A few more updates to the build instructions
+"
+pre,mtiller_modelicabook,a8677a650f4d84322914e18b06b26c8f1e7c387f,Michael Tiller <michael.tiller@gmail.com>,1638722807,"Merge branch 'master' of github.com:mtiller/ModelicaBook
+"
+post,mtiller_modelicabook,eb184f002c0ff0d59a81c9eecb3dac73409aa874,ldwoolley <ldwoolley@gmail.com>,1666141224,"Plant Sensor line connects to wrong inertia body.
+
+The model diagram view showed the sensor connected to inertia2.flange_a, however the text view declared the connection connected to inertia1.flange_a. The output was correct and matched the description in the training description, but the image sent me trying to figure out why the speed of inertia2 did not match the speed of the sensor. I have proposed a correction to the connection and moved the sensor up to separate the lines from the components.
+
+Thanks for the training tool. It has been most informative. I am following the class on OpenModelica Connection Editor 1.19.2 (64-bit)"
+post,mtiller_modelicabook,f4b405113da5a220e7902421bd108ac2f916c6d4,dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>,1670434361,"Bump express from 4.16.2 to 4.17.3 in /api
+
+Bumps [express](https://github.com/expressjs/express) from 4.16.2 to 4.17.3.
+- [Release notes](https://github.com/expressjs/express/releases)
+- [Changelog](https://github.com/expressjs/express/blob/master/History.md)
+- [Commits](https://github.com/expressjs/express/compare/4.16.2...4.17.3)
+
+---
+updated-dependencies:
+- dependency-name: express
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+post,mtiller_modelicabook,9de42474c1448bfbace99da186a7a0ac34f93edf,root <eraracom@gmail.com>,1680612338,"Korean Update
+"
+post,mtiller_modelicabook,0c4ece5766002657e37215f66cf4694e594b65c3,Michael Tiller <michael.tiller@gmail.com>,1680875672,"fix: resolve issue with UTF8 chars in file name
+"
+post,mtiller_modelicabook,0e246c77d4eedac5fed38fc2aadf5f78edade6f9,Michael Tiller <michael.tiller@gmail.com>,1680886787,"feat: use latest OpenModelica and Python
+"
+post,mtiller_modelicabook,271b89369353178c5a27c4d46c68fdf8e0e8e2ea,Michael Tiller <michael.tiller@gmail.com>,1680886861,"chore: remove requirements.txt
+
+Dependencies are loaded into the container or Docker image already, don't need to add them
+here.  If people really want to know what they are, they can just look at the pip install
+command.
+"
+post,mtiller_modelicabook,6b57e04db62c11e5528b2cb07368e1a6fe8716e3,Michael Tiller <michael.tiller@gmail.com>,1680886882,"chore: updates to support Python3
+"
+post,mtiller_modelicabook,5d801057f4346178c4b5e00b862e40a80095b654,Michael Tiller <michael.tiller@gmail.com>,1680886978,"chore: lingering Python 3 fix
+"
+post,mtiller_modelicabook,b0c2df1b182035610d387a86d9e39c0b6223b89c,Michael Tiller <michael.tiller@gmail.com>,1680888635,"fix: building all results on a Mac M1
+
+This is running Ubuntu in a container.  But still better than having to do processor emulation.
+Running in Ubuntu is actually quite nice and integrates perfectly with devcontainers
+in VS Code.
+"
+post,mtiller_modelicabook,32eaf5f0fb68ba6b009bd9f42ffca1de49034a75,Michael Tiller <michael.tiller@gmail.com>,1680889491,"chore: working on building source code FMUs as well as results
+"
+pre,jdtuck_fdasrvf_r,8e88b9391002e87a9531f20a0f4f067c222cf9aa,Derek Tucker <james.d.tucker@navy.mil>,1361208527,"changed over to doParrallel from doSNOW and doMC per CRAN maintainer suggestions, uploaded to CRAN as version 1.4
+"
+pre,jdtuck_fdasrvf_r,ae42a73e3050e37a3e29468cc8696de573649fb0,Derek Tucker <james.d.tucker@navy.mil>,1361800513,"fixed bug with windows and doParallel, also handled issue when aligning with large lambda where no alignment is required and calculating the inverse of gamma
+"
+pre,jdtuck_fdasrvf_r,b1ebf9e2140787254116b068d718870e5d16a72d,Derek Tucker <james.d.tucker@navy.mil>,1363802181,"added distance calculation function
+"
+pre,jdtuck_fdasrvf_r,7ff3a7da8de20869247f79cede746b1ae912c6b3,Derek Tucker <james.d.tucker@navy.mil>,1364300961,"updated DESCRIPTION
+"
+pre,jdtuck_fdasrvf_r,5b699d1c7ea04d171d39072ac122012a59e9f2e9,J. Derek Tucker <derek@tetonedge.net>,1390958965,"fixed gradient bug and submitted to CRAN
+"
+pre,jdtuck_fdasrvf_r,20164517bd8daf284d7356b869e93117e9be9c25,J. Derek Tucker <derek@tetonedge.net>,1391001233,"minor fixes
+"
+pre,jdtuck_fdasrvf_r,191e3b9f0b6b38b7f915ca8594525bc933cd1790,J. Derek Tucker <jdtuck@sandia.gov>,1404845166,"started adding regression code to package, not complete nor tested
+"
+pre,jdtuck_fdasrvf_r,c5f3ecc36426e2ab08dbd9f5a188a86a058f82b6,J. Derek Tucker <jdtuck@sandia.gov>,1405093694,"started elastic regression debugging
+"
+pre,jdtuck_fdasrvf_r,cb2d51fbb003a9024af1e23480873829ef37a0af,Derek Tucker <derek@tetonedge.net>,1405219343,"finished up regression functions with prediction, still needs to be debugged
+"
+pre,jdtuck_fdasrvf_r,0348ce190524e7886bb2887c5931e6aac1b0dd20,Derek Tucker <derek@tetonedge.net>,1405306303,"finished debugging regression functions, updated documentation
+"
+post,jdtuck_fdasrvf_r,0a04e611b77bf922b7e01805802dc178356b4170,Derek Tucker <jdtuck@sandia.gov>,1447340572,"updated formatings
+"
+post,jdtuck_fdasrvf_r,d7ae7831529e986b022abc1989ee179fe3a68df8,Derek Tucker <jdtuck@sandia.gov>,1447351266,"converted to using Rcpp
+"
+post,jdtuck_fdasrvf_r,b95b323609d442adae0216bf00c54f516a63a545,Derek Tucker <jdtuck@sandia.gov>,1447351509,"started travis
+"
+post,jdtuck_fdasrvf_r,6857f8937902d920594abc46ff6c61739e0dcaf0,Derek Tucker <jdtuck@sandia.gov>,1447351615,"fix sudo on travis
+"
+post,jdtuck_fdasrvf_r,bd61b8e771a6851b3856d93f29f66d2fec86244e,Derek Tucker <jdtuck@sandia.gov>,1447355577,"added gropt library
+"
+post,jdtuck_fdasrvf_r,b1bb47186006a1a1c17a5de326cf417f851031dd,Derek Tucker <jdtuck@sandia.gov>,1447361382,"srated adding SIMUL algorithm
+"
+post,jdtuck_fdasrvf_r,7b24a9f746bfc01ef4c5ba4ac69cfe57d1777260,J. Derek Tucker <jdtuck@sandia.gov>,1447386497,"fix errors in R CHECK and finished SIMUL algorithm
+"
+post,jdtuck_fdasrvf_r,f5db2eb02c3f4a0cea3f136570c688504ba1bd05,J. Derek Tucker <jdtuck@sandia.gov>,1447386521,"added srsf_to_f function
+"
+post,jdtuck_fdasrvf_r,9d490e207bc301e89673addeb35e1aa22bbdc1d5,J. Derek Tucker <jdtuck@sandia.gov>,1447418609,"added gropt optimization to reparam and updated documentation
+"
+post,jdtuck_fdasrvf_r,022733f334ac9dbc0f32a44821e4d1f67ec3b42c,J. Derek Tucker <jdtuck@sandia.gov>,1447431023,"fix minor bugs
+"
+pre,xbarin02_collatz,380c25991124666500144dc77ee8c7b1be4b8953,David Barina <ibarina@fit.vutbr.cz>,1709660973,"[scripts] experimentally switch bootstrap to hesieve
+"
+pre,xbarin02_collatz,79fb7316ca6756c5528932f0eddbd6644fc1f2ce,David Barina <ibarina@fit.vutbr.cz>,1710415379,"add h2-esieve-2^34 sieve support
+"
+pre,xbarin02_collatz,47ed2dbb00655476438d99c8816c25584a3141be,David Barina <ibarina@fit.vutbr.cz>,1710421263,"update bootstrap to h2esieve-24
+"
+pre,xbarin02_collatz,b9e362d9d0c6bf708975ac3d82bf05b828314d8f,David Barina <ibarina@fit.vutbr.cz>,1710421377,"add h2esieve-24 support
+"
+pre,xbarin02_collatz,2c4cda5a0d28ece191c050ec139e8c5147dafa8d,David Barina <ibarina@fit.vutbr.cz>,1710426941,"fix last prefix
+"
+pre,xbarin02_collatz,0ae32f147a02f7707fcb276b53dce0ebc8e2fb7a,David Barina <ibarina@fit.vutbr.cz>,1710427116,"fix h2-esieve-2^24 prefix
+"
+pre,xbarin02_collatz,bc06404a76df25094f5534d8ed46d472208ad2aa,David Barina <ibarina@fit.vutbr.cz>,1710434253,"add pbs-m1 script
+"
+pre,xbarin02_collatz,c109dbb0d4ec54ca6a8f44c72b5e243c8d303860,David Barina <ibarina@fit.vutbr.cz>,1710518294,"add metacentrum scripts for h2 sieve
+"
+pre,xbarin02_collatz,42580b7802861044b278c54db000238d6faa764b,David Barina <ibarina@fit.vutbr.cz>,1710518509,"add cerit h2 script
+"
+pre,xbarin02_collatz,69bc73217a3cccd4d0424728852de1f3797780d0,David Barina <ibarina@fit.vutbr.cz>,1710766813,"using (3n+1)/2 as an odd step
+"
+post,xbarin02_collatz,dfb019fab9312b5de7b73fba8059fb01f46ab26b,David Barina <ibarina@fit.vutbr.cz>,1733944915,"[lumi] update project id
+"
+post,xbarin02_collatz,1589271203b2468afa3f7e0109a72408d801f77c,David Barina <ibarina@fit.vutbr.cz>,1734881395,"lumi script update
+"
+post,xbarin02_collatz,5abd4b868459241bf7d1084d9cb6a85797520bab,David Barina <ibarina@fit.vutbr.cz>,1734886299,Update README.md
+post,xbarin02_collatz,149e7d3a1451e6e226e222d92a793d3a26f260cf,David Barina <ibarina@fit.vutbr.cz>,1737014588,"new entry in max-assignments.txt
+"
+post,xbarin02_collatz,53c2a0608075d6fe3f10cc6eeeaf50e400c86338,David Barina <ibarina@fit.vutbr.cz>,1737014616,"Merge branch 'master' of github.com:xbarin02/collatz
+"
+post,xbarin02_collatz,dd5a582d9fba1803ad7cd6608d0be6acecf352f7,David Barina <ibarina@fit.vutbr.cz>,1739712898,"[src] add mod3 search program
+"
+post,xbarin02_collatz,65f05ab6dde412cfda44f3b8fa2bcf1aade69766,David Barina <ibarina@fit.vutbr.cz>,1746643277,Update README.md
+post,xbarin02_collatz,9a256860d017590f54e5bb8dcdf91f0c2b64ae89,David Barina <ibarina@fit.vutbr.cz>,1747059615,Update LICENSE.md
+post,xbarin02_collatz,e4c55ddcef256fc7e48fb197b3f36abff4d336ca,David Barina <ibarina@fit.vutbr.cz>,1755704212,"add config file
+"
+post,xbarin02_collatz,a8818ede55f4ddb474c8a0f4c302c49b66c17aaf,David Barina <ibarina@fit.vutbr.cz>,1757072759,"add Recursive sufficiency (rs) worker
+"
+pre,jklimke_libcitygml,a5d157a7336e200e2cb6f754bab0e4dabefef093,Jan Klimke <jan.klimke@hpi.de>,1569404386,"raised version number to 2.2.0
+"
+pre,jklimke_libcitygml,6ea56d4e66202858db6d8c4b2dc9302bb30d29eb,Jan Klimke <jan.klimke@hpi.de>,1569404507,"fixed travis build
+"
+pre,jklimke_libcitygml,dc507ab27ba85384f199f4ad8e4e660a9900224a,Jan Klimke <jklimke@users.noreply.github.com>,1569404768,"Merge pull request #56 from jklimke/master_internal_building
+
+internal building installation with english readme"
+pre,jklimke_libcitygml,aa6b833fedf0f490a7c92dfdf20669ca61f082a8,hpcwoess <woessner@hlrs.de>,1582586358,"Merge branch 'master' of github.com:hlrs-vis/libcitygml
+"
+pre,jklimke_libcitygml,8be1bf6205ac46c1e5b4a9be87c12200c9a8189a,hpcwoess <woessner@hlrs.de>,1582586422,"support forward slash on windows
+added performance mode
+"
+pre,jklimke_libcitygml,63af36310e685b5cc19eab1ffc78072b926064f4,hpcwoess <woessner@hlrs.de>,1583339835,"support textures
+"
+pre,jklimke_libcitygml,91ee10f58d009c76aac605adc4bb0c242f0d4e1a,Uwe Woessner <woessner@hlrs.de>,1583343857,"linux copile fix
+"
+pre,jklimke_libcitygml,639f245ce65324868fb31de8c5b6606b875ba601,harish147 <72175302+harish147@users.noreply.github.com>,1601517838,Update README.md
+pre,jklimke_libcitygml,238a5e3387714e2ff8fdbf23643b8881249315b6,Debabrata Deka <60925700+ddeka2910@users.noreply.github.com>,1606133791,Add architecture ppc64le to travis build
+pre,jklimke_libcitygml,486fc96964a42848c0d6c2504af06546249feb48,Jan Klimke <jklimke@users.noreply.github.com>,1606138859,"Merge pull request #58 from ddeka2910/master
+
+Add architecture ppc64le to travis build"
+post,jklimke_libcitygml,2998faaf6c3943dd6b99a80eaa7aa44c26ba386f,HarutakaMatsumoto <harutaka_matsumoto@icloud.com>,1635228341,"Succeeded load dem
+"
+post,jklimke_libcitygml,c8a1ce23cd39d27d831041ecd616efec188476b5,HarutakaMatsumoto <harutaka_matsumoto@icloud.com>,1635232146,"Dealt with variable lod
+"
+post,jklimke_libcitygml,b49b0761306ac8d8c61a7ee890c283a7fdb31300,HarutakaMatsumoto <harutaka_matsumoto@icloud.com>,1635239484,"Implemented all parts except RectifiedGridCoverage class
+"
+post,jklimke_libcitygml,a716a9d717198d3ca6d8184027d4a3e298379cb8,HarutakaMatsumoto <harutaka_matsumoto@icloud.com>,1635242427,"Reverted citygmltest.cpp.
+Fixed DEM_GridNode place
+"
+post,jklimke_libcitygml,d10ec50a34274c42bc6a73e2fda0085142e441d2,Jan Klimke <jklimke@users.noreply.github.com>,1635258614,"Merge pull request #60 from HarutakaMatsumoto/develop
+
+Implemented all parts of ReliefComponent except RectifiedGridCoverage"
+post,jklimke_libcitygml,91baf763a183434ca8993a6ee07455c6db9b9c4a,HarutakaMatsumoto <harutaka_matsumoto@icloud.com>,1635494736,"Implemented easy nodes
+"
+post,jklimke_libcitygml,6f0ad1df1b884182154af74383f22b65fe043763,HarutakaMatsumoto <harutaka_matsumoto@icloud.com>,1636365259,"Implemented RectifiedGridCoverage
+"
+post,jklimke_libcitygml,630bec1c37d1621d964c827fcc29835635f74949,HarutakaMatsumoto <harutaka_matsumoto@icloud.com>,1636696155,"Implemented RectifiedGridCoverage
+"
+post,jklimke_libcitygml,4115a66b07958976769c3c4138df480977594699,HarutakaMatsumoto <harutaka_matsumoto@icloud.com>,1637224180,"Implementing ExternalReference
+"
+post,jklimke_libcitygml,37aecc3dd031f07486d97c5e0fd5848b8d6a9109,HarutakaMatsumoto <harutaka_matsumoto@icloud.com>,1637292428,"Implemented ExternalReference and subjects
+"
+pre,mskcc_vcf2maf,17feed0a197eb5a2cceef39cc70e9cbf7b7e5dd8,Cyriac Kandoth <ckandoth@gmail.com>,1619228763,"Remove option filter-vcf in favor of vep-custom
+"
+pre,mskcc_vcf2maf,32bf204d5f147a4635b073d09fcf6224a655b2f2,Cyriac Kandoth <ckandoth@gmail.com>,1619232373,"Fix vcf2maf test cuz I forgot something
+"
+pre,mskcc_vcf2maf,754d68ab4ad3eba29199c5a62e0061745aed7e7e,Cyriac Kandoth <ckandoth@gmail.com>,1619233024,"Update MAF column specs since filter-vcf arg is removed
+"
+pre,mskcc_vcf2maf,15498c54baca1c8979e8a1de6668554ff5963647,Alan Hoyle <alanh@unc.edu>,1619462169,"--help and --man POD completely reformmated
+"
+pre,mskcc_vcf2maf,1228e7331fdb32013bbe2b8300835bc019da469c,Alan Hoyle <alan@alanhoyle.com>,1619462414,"Merge pull request #1 from alanhoyle/specify-external-execs
+
+Specify external execs, redo POD for --help/--man"
+pre,mskcc_vcf2maf,7df16f66b2ece0130a5778ec8e9720dce97ba0da,Alan Hoyle <alan@alanhoyle.com>,1619462796,Merge branch 'main' into parameterized-sub-procs
+pre,mskcc_vcf2maf,daa73d333e3de0513b8ee9ecd982d18627e011a2,Alan Hoyle <alan@alanhoyle.com>,1619463856,Removed extra --man from ADVANCED OPTIONS
+pre,mskcc_vcf2maf,d2ed4de122a9ca4f515caa1fe35e0a3e7990279a,Alan Hoyle <alan@alanhoyle.com>,1619469129,improvement to --vep-path help
+pre,mskcc_vcf2maf,3494db09b2fa1497f8891fcb4bb4c7161b736265,Alan Hoyle <alanh@unc.edu>,1619479177,"POD changed, external exec params
+"
+pre,mskcc_vcf2maf,73369616c232b969a2b7b85e9ef9b84949bcc6a4,Alan Hoyle <alanh@unc.edu>,1619559073,"POD changed, external exec params (#284)
+
+"
+post,mskcc_vcf2maf,e23c52e24aae63b38b9626075532133b01727124,Alan Hoyle <alan@alanhoyle.com>,1654698396,"vcf2maf.pl:  new --vep-stats option
+
+There's a rare circumstance where VEP crashes and the work-around is to allow
+VEP to generate the stats reports.  See:
+
+    https://github.com/Ensembl/ensembl-vep/issues/818
+
+The new option allows vcf2maf to remove the --no-stats option
+from the VEP subprocess call, allowing it to finish in more cases.
+"
+post,mskcc_vcf2maf,b59d743446b768845550709fbfe9634008d9a3d0,Alan Hoyle <alan@alanhoyle.com>,1654698396,"vcf2maf.pl:  new --vep-stats option
+
+There's a rare circumstance where VEP crashes and the work-around is to allow
+VEP to generate the stats reports.  See:
+
+    https://github.com/Ensembl/ensembl-vep/issues/818
+
+The new option allows vcf2maf to remove the --no-stats option
+from the VEP subprocess call, allowing it to finish in more cases.
+"
+post,mskcc_vcf2maf,9dc197aeaf95ac73db75a29ee7388ec7bc23e082,Alan Hoyle <alan@alanhoyle.com>,1654698607,"vcf2maf.pl: added cr in $vep_cmd code
+"
+post,mskcc_vcf2maf,5ed414428046e71833f454d4b64da6c30362a89b,Alan Hoyle <alan@alanhoyle.com>,1654698607,"vcf2maf.pl: added cr in $vep_cmd code
+"
+post,mskcc_vcf2maf,79cd9d58bfb4867575c337c744f9e4cbf1931031,Gregory Hogue <gfjhogue@gmail.com>,1657747156,"Handle new splice effects in ensembl-vep version 105
+
+"
+post,mskcc_vcf2maf,dacbb687c66a425771ebfed43992aa62c67dddbe,Gregory Hogue <gfjhogue@gmail.com>,1657747156,"Handle new splice effects in ensembl-vep version 105
+
+"
+post,mskcc_vcf2maf,1482059e1c8cf67b40074f31583ce922a19acdc5,bozbezbozzel <a.v.vliet@nki.nl>,1660045409,"Remove --af_esp flag as it's deprecated
+
+This flag stops vcf2maf from running with vep 107 (haven't tested it for earlier versions)"
+post,mskcc_vcf2maf,83c23952949855597d9f1151b299f09886836873,bozbezbozzel <a.v.vliet@nki.nl>,1660045409,"Remove --af_esp flag as it's deprecated
+
+This flag stops vcf2maf from running with vep 107 (haven't tested it for earlier versions)"
+post,mskcc_vcf2maf,702837d1a20494ad1f2644b97cb72c27c8e439cb,bozbezbozzel <a.v.vliet@nki.nl>,1660045479,"Merge pull request #1 from bozbezbozzel/bozbezbozzel-patch-1
+
+Remove --af_esp flag as it's deprecated"
+post,mskcc_vcf2maf,1b34293c2e352702ea483fca940203bac2249c90,Robert Allaway <allaway@users.noreply.github.com>,1661554395,Update vcf2maf.pl
+pre,sibrun_gh,7c9e12cddb2dfea91d7c8c3ce205971f62ceed4b,sibrun <34035422+sibrun@users.noreply.github.com>,1529581153,Update README.md
+pre,sibrun_gh,d8e04d4df3ffd8776e5c71eaa84841828f2a795c,sibrun <34035422+sibrun@users.noreply.github.com>,1529581274,Update README.md
+pre,sibrun_gh,d6dd39fd9ec74b563bca04b2df29027b96d615ed,sibrun <34035422+sibrun@users.noreply.github.com>,1529581637,Update README.md
+pre,sibrun_gh,ca426fb9f1a9a646ba399d0ddb756c9149e007ce,Simon Brun <sb.simonbrun@gmail.com>,1529581849,"Documentation
+"
+pre,sibrun_gh,9648252ee64f1c3a5a1129e8620fae962d3f78da,Simon Brun <sb.simonbrun@gmail.com>,1529581860,"Merge remote-tracking branch 'origin/master'
+"
+pre,sibrun_gh,22e0467686cd84d0b9a4201ec6e4df1b10bc57cf,Simon Brun <sb.simonbrun@gmail.com>,1529583938,"Documentation
+"
+pre,sibrun_gh,53c378ee0860baa687fe75df3fc56d60776f905a,sibrun <34035422+sibrun@users.noreply.github.com>,1529584075,Update README.md
+pre,sibrun_gh,51a07d398a4d9ecebb413a9ffabdddf6c7f09ced,sibrun <34035422+sibrun@users.noreply.github.com>,1529944931,Update README.md
+pre,sibrun_gh,3ce1960461738493278ded982828309385a7ef38,Simon Brun <sb.simonbrun@gmail.com>,1530527020,"changed names
+"
+pre,sibrun_gh,121953af1ed89a5b52b795556066e3a32ce91bc0,Simon Brun <sb.simonbrun@gmail.com>,1530527035,"Merge remote-tracking branch 'origin/master'
+"
+post,sibrun_gh,c3ccc1479b481c8cc0f56f65350ca83c73a10e17,thomas <t.willwacher@gmail.com>,1617352332,"some py3 adaptations
+"
+post,sibrun_gh,033292c69eecd1f411c488399e644a21f35cd21d,thomas <t.willwacher@gmail.com>,1617554091,"added new graph complex
+"
+post,sibrun_gh,6d4fa2b88458a59189c2382c442665eb290ef117,thomas <t.willwacher@gmail.com>,1617564783,"added version of display routines for graph plots
+"
+post,sibrun_gh,72f213f4cd2d4ffbdc38dfed6c232ab4af1eb792,thomas <t.willwacher@gmail.com>,1617652173,"bugfixes on whairy
+"
+post,sibrun_gh,63c9214b4be28744570c21085da2561451be7d02,thomas <t.willwacher@gmail.com>,1617734117,"Whairy bugfixes.... seems to work ..
+"
+post,sibrun_gh,d1c151fb6515038b93413c0f24d5c0ffc2a0635f,thomas <t.willwacher@gmail.com>,1618402717,"small fixes, and reduced graph complex
+"
+post,sibrun_gh,d98f3926900e5db25f43fa6c1acd36f1a7eff66d,sibrun <34035422+sibrun@users.noreply.github.com>,1618580822,Delete data directory
+post,sibrun_gh,da4578fc8e5050800d60c64ba0ea7bd5b65bed23,thomas <t.willwacher@gmail.com>,1632926926,"added symmetry projections
+"
+post,sibrun_gh,23ed4ab76c8d5bad9112971b6469e5816534cb15,thomas <t.willwacher@gmail.com>,1632954899,"...
+"
+post,sibrun_gh,3fc00c3b01a12df5a9861fe19b179f642b7636c6,thomas <t.willwacher@gmail.com>,1633275958,"...
+"
+pre,lyc102_ifem,d0f2b4aa2f69435f2628adf9b727ab2816c32e40,Long Chen <lyc102@gmail.com>,1647235639,"Update projectPBE.md
+"
+pre,lyc102_ifem,ffeeeb1e70008adc67d286a65c5921932750e3fe,Long Chen <lyc102@gmail.com>,1648059410,"Update projectPBE.md
+"
+pre,lyc102_ifem,1700b40152d9413a013ab7c4f88549180b543328,S.Cao-office <scao.math@gmail.com>,1649972174,"Update dof3 expand order consistent with Maxwell2
+"
+pre,lyc102_ifem,6558d410a664b21e4a30ea971cb659fc2dd5cd8f,Long Chen <12400609+lyc102@users.noreply.github.com>,1656092748,"add script to plot lattice
+"
+pre,lyc102_ifem,f7e0b525e0bf2dc95eb8ac752f54e4d62b5f7ba0,S.Cao <scao.math@gmail.com>,1663048368,"added a curl-curl 2d testing code
+"
+pre,lyc102_ifem,146ec572a05df31b44a68143767600651dc5c45c,David-Hang-Du <66042427+David-Hang-Du@users.noreply.github.com>,1671483164,Update myunique.m
+pre,lyc102_ifem,0b5657d0c83e78c454e476c4208737f29c9b88fd,David-Hang-Du <66042427+David-Hang-Du@users.noreply.github.com>,1671483777,"Update myunique.m
+
+Some MATLAB version has ""Update #"" at the end, which results in wrong extraction of version number. This change uses parentheses to locate the year."
+pre,lyc102_ifem,f4ce62eaaa03f301f6312fae25118f2d2abb1cb4,David-Hang-Du <66042427+David-Hang-Du@users.noreply.github.com>,1671551460,Update myunique.m
+pre,lyc102_ifem,f2b475ce370a2ec624e5f47836722aaa8dbb4a59,David-Hang-Du <66042427+David-Hang-Du@users.noreply.github.com>,1671552380,"Update the extraction of MATLAB version in myunique.m(#9)
+
+* Update myunique.m
+
+Some MATLAB version has ""Update #"" at the end, which results in wrong extraction of version number. This change uses parentheses to locate the year."
+pre,lyc102_ifem,29f31c812001ca8d93dad08e67208ca60e8716d4,Ruru777 <54922383+Ruru777@users.noreply.github.com>,1676091352,"add ivem
+"
+post,lyc102_ifem,57b87151be9a0fa3c1f0856cab4facb55b930276,litaihe <litaihe0128@163.com>,1699170033,"fix  isBdNode not assigned a value  bug
+"
+post,lyc102_ifem,54394b1c11af5df6b570846dfff61dc43dccaa2e,litaihe <litaihe0128@163.com>,1699170395,"fix isBdNode not assigned a value bug
+"
+post,lyc102_ifem,884a92ad70a3b41582a86bc3b44e7e41510dc04e,taihe <40708632+litaihe@users.noreply.github.com>,1699628951,"fix isBdNode not assigned a value bug (#12)
+
+* fix `isBdNode` not being assigned a value in gradmatrix.m"
+post,lyc102_ifem,6ef6f6419dccf3781f1e565bc32b8294ddfe56d7,S.Cao-office <scao.math@gmail.com>,1701457076,"fixed a bug for showsolution recursive call
+"
+post,lyc102_ifem,514c8bec3bff4b04e4cbe74cf40dfe17e060bdca,Long Chen <12400609+lyc102@users.noreply.github.com>,1704701353,"update project FD
+"
+post,lyc102_ifem,f3ecffa23608245317e12f9687515b39d02cb2e4,Long Chen <12400609+lyc102@users.noreply.github.com>,1709269587,"Create barycentricrefine.m
+"
+post,lyc102_ifem,f035f9f6381aa410f9e3aa1e64a6fb3d881c4e59,Long Chen <12400609+lyc102@users.noreply.github.com>,1710981764,"add project on linear elasticity
+"
+post,lyc102_ifem,dd17ff9a32e7de846fd41aa321e241f594b24418,Long Chen <12400609+lyc102@users.noreply.github.com>,1710983439,"Update projectElasticity.md
+"
+post,lyc102_ifem,34129c0a27eb380f3a36e87ab96cc807e5d1a566,Long Chen <12400609+lyc102@users.noreply.github.com>,1718427843,"correct a typo found by SunQi in the m-lint of gradbasis.m
+"
+post,lyc102_ifem,56baac125dca0d45e14b707f18f14d9ac05acde7,fangyuoy <51166947+fangyuoy@users.noreply.github.com>,1728309452,"Update setboundary.m
+
+In the judgement of the dimension check, 3D case should be size(node,2)>=4 rather than size(elem,2)>=4."

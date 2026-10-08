@@ -1,0 +1,3 @@
+# Reflection: ds4dm_tulip.jl
+
+The longest inactivity gap in this project’s history was five months. It was moderately easy to explain because the commits before and after the gap differed significantly. Before the gap, the project involved mainly solver features and statistics. In contrast, the commits after the gap contained mainly bug fixes, tests, CI, and dependencies. This project recovered well from the gap because both previous contributors and new ones participated in the commits, which involved features and release.
